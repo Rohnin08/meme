@@ -1,0 +1,11 @@
+
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    
+}
+
+.container{
+    width: 100%;
+}

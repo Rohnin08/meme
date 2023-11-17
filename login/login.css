@@ -1,0 +1,16 @@
+.container {
+    display:flex;
+    flex-direction: column;
+    background-color: black;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+}
+
+.form {
+    width: 430px;
+    height: 500px;
+    background-color: black;
+    box-shadow: 10px rgb(82, 81, 81);
+    color: aqua;
+}
